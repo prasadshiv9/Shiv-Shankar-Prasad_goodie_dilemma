@@ -1,1 +1,1 @@
-# goodie_dilema_problem_solution
+Program written in Java Language
